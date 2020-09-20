@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vintage-store.git/precache-manifest.58962f7debafe64e80d41d9e7e2be7b3.js"
+  "/vintage-store.git/precache-manifest.6b7a723a3d995e1fa1e075ff8295d9ce.js"
 );
 
 self.addEventListener('message', (event) => {

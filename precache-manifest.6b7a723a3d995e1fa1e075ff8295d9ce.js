@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36ec826752f1d2238a7866a427db13de",
+    "revision": "7a6125f15400a44a9f67620f4e595c13",
     "url": "/vintage-store.git/index.html"
   },
   {
-    "revision": "fe2bb7f9e3abf1126297",
+    "revision": "3d8fb20f1bf21c126235",
     "url": "/vintage-store.git/static/css/main.0528a603.chunk.css"
   },
   {
-    "revision": "cbf8ed4748a9e59b5112",
-    "url": "/vintage-store.git/static/js/2.f61e2e97.chunk.js"
+    "revision": "ac60ac2b0e1769a04947",
+    "url": "/vintage-store.git/static/js/2.622a15ad.chunk.js"
   },
   {
-    "revision": "fe2bb7f9e3abf1126297",
-    "url": "/vintage-store.git/static/js/main.6760d683.chunk.js"
+    "revision": "3d8fb20f1bf21c126235",
+    "url": "/vintage-store.git/static/js/main.bcbd4b11.chunk.js"
   },
   {
     "revision": "114bc0b17b4ac852cca6",

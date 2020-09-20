@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vintage-store.git/static/css/main.0528a603.chunk.css",
-    "main.js": "/vintage-store.git/static/js/main.6760d683.chunk.js",
-    "main.js.map": "/vintage-store.git/static/js/main.6760d683.chunk.js.map",
+    "main.js": "/vintage-store.git/static/js/main.bcbd4b11.chunk.js",
+    "main.js.map": "/vintage-store.git/static/js/main.bcbd4b11.chunk.js.map",
     "runtime-main.js": "/vintage-store.git/static/js/runtime-main.25aee57c.js",
     "runtime-main.js.map": "/vintage-store.git/static/js/runtime-main.25aee57c.js.map",
-    "static/js/2.f61e2e97.chunk.js": "/vintage-store.git/static/js/2.f61e2e97.chunk.js",
-    "static/js/2.f61e2e97.chunk.js.map": "/vintage-store.git/static/js/2.f61e2e97.chunk.js.map",
+    "static/js/2.622a15ad.chunk.js": "/vintage-store.git/static/js/2.622a15ad.chunk.js",
+    "static/js/2.622a15ad.chunk.js.map": "/vintage-store.git/static/js/2.622a15ad.chunk.js.map",
     "index.html": "/vintage-store.git/index.html",
-    "precache-manifest.58962f7debafe64e80d41d9e7e2be7b3.js": "/vintage-store.git/precache-manifest.58962f7debafe64e80d41d9e7e2be7b3.js",
+    "precache-manifest.6b7a723a3d995e1fa1e075ff8295d9ce.js": "/vintage-store.git/precache-manifest.6b7a723a3d995e1fa1e075ff8295d9ce.js",
     "service-worker.js": "/vintage-store.git/service-worker.js",
     "static/css/main.0528a603.chunk.css.map": "/vintage-store.git/static/css/main.0528a603.chunk.css.map",
     "static/media/loading.gif": "/vintage-store.git/static/media/loading.8894b7d3.gif",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.25aee57c.js",
-    "static/js/2.f61e2e97.chunk.js",
+    "static/js/2.622a15ad.chunk.js",
     "static/css/main.0528a603.chunk.css",
-    "static/js/main.6760d683.chunk.js"
+    "static/js/main.bcbd4b11.chunk.js"
   ]
 }
