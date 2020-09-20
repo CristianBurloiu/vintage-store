@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vintage-store.git/static/css/main.0528a603.chunk.css",
+    "main.js": "/vintage-store.git/static/js/main.6760d683.chunk.js",
+    "main.js.map": "/vintage-store.git/static/js/main.6760d683.chunk.js.map",
+    "runtime-main.js": "/vintage-store.git/static/js/runtime-main.25aee57c.js",
+    "runtime-main.js.map": "/vintage-store.git/static/js/runtime-main.25aee57c.js.map",
+    "static/js/2.f61e2e97.chunk.js": "/vintage-store.git/static/js/2.f61e2e97.chunk.js",
+    "static/js/2.f61e2e97.chunk.js.map": "/vintage-store.git/static/js/2.f61e2e97.chunk.js.map",
+    "index.html": "/vintage-store.git/index.html",
+    "precache-manifest.58962f7debafe64e80d41d9e7e2be7b3.js": "/vintage-store.git/precache-manifest.58962f7debafe64e80d41d9e7e2be7b3.js",
+    "service-worker.js": "/vintage-store.git/service-worker.js",
+    "static/css/main.0528a603.chunk.css.map": "/vintage-store.git/static/css/main.0528a603.chunk.css.map",
+    "static/media/loading.gif": "/vintage-store.git/static/media/loading.8894b7d3.gif",
+    "static/media/logo.svg": "/vintage-store.git/static/media/logo.7ac3ba3a.svg",
+    "static/media/index.css": "/vintage-store.git/static/media/mainBcg.016d4fcc.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25aee57c.js",
+    "static/js/2.f61e2e97.chunk.js",
+    "static/css/main.0528a603.chunk.css",
+    "static/js/main.6760d683.chunk.js"
+  ]
+}
